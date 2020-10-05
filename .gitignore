@@ -1,0 +1,6 @@
+#No assignment documents
+*.xlsx
+*.docx
+*.pdf
+.ipynb_checkpoints
+.idea
